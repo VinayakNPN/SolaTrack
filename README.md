@@ -43,5 +43,4 @@ SolaTrack consists of three main components:
 - [ ] Integration with existing ERP systems
 - [ ] AI-powered anomaly detection and analytics
 
-## 🚀 Getting Started
 
